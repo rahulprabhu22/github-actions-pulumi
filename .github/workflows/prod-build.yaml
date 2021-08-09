@@ -1,4 +1,4 @@
-name: Github Actions Prod Build
+name: Prod Build
 
 on:
   push:
