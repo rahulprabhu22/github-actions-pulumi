@@ -10,7 +10,7 @@ import { logGroupForLambda, lambdaCodePath ,lambdaHandler, pythonRuntime} from "
 const createResource = async () => {
 
     const commonTags = {
-        "createdBy" : "rprabhu@presidio.com",
+        "createdBy" : "rahul",
         "purpose": "training"
     }
 
